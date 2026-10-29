@@ -1,10 +1,9 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8CCBFF,30:B5E1FF,65:D6EEFF,100:F0FAFF&height=260&section=header&text=Namrata%20Lamichhane&fontSize=46&fontColor=315477&animation=fadeIn&fontAlignY=38&desc=clouds%20above,%20dreams%20ahead&descSize=17&descAlignY=58" width="100%" alt="Dreamy sky blue cloud banner"/>
 
 <br/>
-
-# Namrata Lamichhane
 
 ### Computer Science with AI Student
 
@@ -14,10 +13,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=namrata-lamichhane&label=visitors&color=9CCEF5&style=flat-square" alt="Profile visitors"/>
 
-<br/><br/>
-
-<img align="center" width="78%" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Coding in a dreamy cloud world"/>
-
 </div>
 
 ---
@@ -25,10 +20,10 @@
 ## 01 · About Me
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8CCBFF,100:E5F5FF&height=3&section=header" width="100%" alt="Blue divider"/>
-
 </div>
+
+<img align="right" width="30%" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Coding in a dreamy cloud world"/>
 
 ```yaml
 name: Namrata Lamichhane
@@ -48,6 +43,8 @@ goal: Learn, build, and grow through real projects
 - Building projects while improving my programming and development skills.
 - Interested in creating useful applications with thoughtful, user-friendly interfaces.
 - Learning step by step and turning new ideas into practical projects.
+
+<br clear="right"/>
 
 ---
 
