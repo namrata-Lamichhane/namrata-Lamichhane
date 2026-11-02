@@ -1,21 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8CCBFF,30:B5E1FF,65:D6EEFF,100:F0FAFF&height=260&section=header&text=Namrata%20Lamichhane&fontSize=46&fontColor=315477&animation=fadeIn&fontAlignY=38&desc=clouds%20above,%20dreams%20ahead&descSize=17&descAlignY=58" width="100%" alt="Dreamy sky blue cloud banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8CCBFF,30:B5E1FF,65:D6EEFF,100:F0FAFF&height=260&section=header&text=Namrata%20Lamichhane&fontSize=46&fontColor=315477&animation=fadeIn&fontAlignY=38&desc=%20%20%20&descAlignY=58" width="100%" alt=""/>
 
 <br/>
 
-### Computer Science with AI Student
 
-*Artificial Intelligence · Machine Learning · Deep Learning · Full-Stack Development*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=namrata-lamichhane&label=visitors&color=9CCEF5&style=flat-square" alt="Profile visitors"/>
-
-</div>
-
----
 
 ## 01 · About Me
 
@@ -39,10 +29,7 @@ interests:
 goal: Learn, build, and grow through real projects
 ```
 
-- Exploring how AI and machine learning can solve real-world problems.
-- Building projects while improving my programming and development skills.
-- Interested in creating useful applications with thoughtful, user-friendly interfaces.
-- Learning step by step and turning new ideas into practical projects.
+.
 
 <br clear="right"/>
 
